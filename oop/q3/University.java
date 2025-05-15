@@ -27,9 +27,9 @@ public class University {
 
         if (s.equals(myself)) {
             if (students.contains(s)) {
-                return "Object Orriented Programming";
+                return "კომპიუტერის ორგანიზაცია(ENG), ალგორითმები და მონაცემთა სტრუქტურა(ENG), ობიექტზე ორიენტირებული დაპორგრამება(ENG), კომპიუტერი და საზოგადოება(ENG)";
             } else {
-                return "123456789"; /*i cant push my actual number on public repository */
+                return "01024076***"; /*last 3 are hidden because this is being uploaded to a public repository */
             }
         } else {
             if (students.contains(s)) {
